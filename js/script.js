@@ -251,8 +251,8 @@ downloadCVBtn.addEventListener('click', (e) => {
     e.preventDefault();
     
     // CV file path - update this with your actual CV filename
-    const cvPath = 'files/Tsehaye_Tadesse_CV.pdf';
-    const cvFileName = 'Tsehaye_Tadesse_CV.pdf';
+    const cvPath = 'files/Tsehay_Tadesse_CV.pdf';
+    const cvFileName = 'Tsehay_Tadesse_CV.pdf';
     
     // Create a temporary anchor element to trigger download
     const link = document.createElement('a');

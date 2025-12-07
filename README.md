@@ -1,6 +1,6 @@
-# Tsehaye Tadesse - Personal Portfolio Website
+# Tsehay Tadesse - Personal Portfolio Website
 
-A beautiful, modern, and professional personal portfolio website showcasing skills, experience, and contact information for Tsehaye Tadesse, Electrical Engineer.
+A beautiful, modern, and professional personal portfolio website showcasing skills, experience, and contact information for Tsehay Tadesse, Computer Engineer.
 
 ## 🎨 Features
 
@@ -138,7 +138,7 @@ Update the CV download functionality in `js/script.js` (around line 250):
 2. Update the download link:
    ```javascript
    link.href = 'path/to/your-cv.pdf';
-   link.download = 'Tsehaye_Tadesse_CV.pdf';
+   link.download = 'Tsehay_Tadesse_CV.pdf';
    ```
 
 ## 🌐 Deployment
@@ -213,5 +213,5 @@ This portfolio template is created for personal use. Feel free to customize it f
 
 ---
 
-**Built with ❤️ for Tsehaye Tadesse**
+**Built with ❤️ for Tsehay Tadesse**
 
